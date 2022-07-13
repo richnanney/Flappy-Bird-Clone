@@ -2,7 +2,7 @@
 
 It's Flappy Bird! Seems kinda like a standard go-to for game recreation. It's simple, it's basic, and it made a ton of money in ad-revenue.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vQp96uJFqYs)
 
 # Development Environment
 
